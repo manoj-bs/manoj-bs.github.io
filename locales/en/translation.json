@@ -2,10 +2,13 @@
   "admin": {
     "drawer": {
       "menu": {
+        "calendar": "Calendar",
         "dashboard": "Dashboard",
+        "help": "Help",
         "home": "Home",
         "projects": "Projects",
-        "settings": "Settings"
+        "settings": "Settings",
+        "userManagement": "Users"
       }
     },
     "header": {
@@ -126,6 +129,44 @@
       "title": "Register"
     }
   },
+  "calendar": {
+    "confirmations": {
+      "delete": "Are you sure you want to delete this event?"
+    },
+    "form": {
+      "color": {
+        "label": "Color"
+      },
+      "description": {
+        "label": "Description"
+      },
+      "end": {
+        "label": "End Date"
+      },
+      "start": {
+        "label": "Start Date"
+      },
+      "title": {
+        "label": "Title"
+      }
+    },
+    "modal": {
+      "add": {
+        "action": "Add",
+        "title": "Add Event"
+      },
+      "edit": {
+        "action": "Edit",
+        "title": "Edit Event"
+      }
+    },
+    "notifications": {
+      "addSuccess": "{{event}} has been added!",
+      "deleteSuccess": "Event has been deleted!",
+      "updateSuccess": "{{event}} has been updated!"
+    },
+    "title": "Calendar"
+  },
   "common": {
     "backHome": "Back to Home",
     "cancel": "Cancel",
@@ -222,6 +263,33 @@
       "title": "Visits"
     },
     "title": "Dashboard"
+  },
+  "faq": {
+    "noAnswerLink": "Can't find it here? Check out our Help Center.",
+    "questions": {
+      "title1": "What is React Admin?",
+      "answer1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortiseget.",
+      "title2": "How does it work?",
+      "answer2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortiseget.",
+      "title3": "What are the features available?",
+      "answer3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortiseget.",
+      "title4": "Who is maintaining the project?",
+      "answer4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortiseget.",
+      "title5": "What is the license of the project?",
+      "answer5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortiseget.",
+      "title6": "How can I contribute to the project?",
+      "answer6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortiseget."
+    },
+    "title": "Frequently Asked Questions"
+  },
+  "help": {
+    "menu": {
+      "contact": "Contact",
+      "faq": "FAQ",
+      "guide": "Guide",
+      "support": "Support"
+    },
+    "title": "Help Center"
   },
   "landing": {
     "cta": {
