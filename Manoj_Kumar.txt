@@ -1,0 +1,82 @@
+ 
+ 
+Manoj Kumar B S   
+Senior SDET  
+ +91-8073267119 / +91-9741561165      manojbs310@gmail.com 
+ 
+Skills    
+Areas of Interest Tool design and development, Framework development, DevOps, API and 
+UI Automation (Windows, Linux and MacOS). 
+Databases                            MySQL, Oracle. 
+Programming Languages Python, Perl, Shell Scripting 
+Tools and Technologies  AutoIT, Selenium, Ranorex Studio(1.5.1), Postman, ESXi servers,  
+Other tools/technologies Git, Java, JavaScript, Docker, Jira, Bitbucket, Jenkins, Confluence, 
+NodeJS. 
+Experience: 
+Senior SDET 
+Unify Technologies, Bengaluru (Client: IDFC First Bank) 
+05/2022 - Present 
+Achievements/Tasks: 
+• Developed automation test frameworks for different modules in Core Banking System like 
+Current/Savings Account, Taxation, FD, etc. 
+• Worked on solutions to reduce the monthly automation runs time by half 
+• Contributed in development of tools for organize the automations run results to reduce the error 
+analysis time 
+• Contributed in patch testing by developing automation scripts for testing multiple new features 
+added in Core Banking System. 
+Automation Engineer 
+UST Global, Bengaluru (Client: Dell) 
+04/2021 – 09/2021 
+Achievements/Tasks: 
+• Worked on Dell ThinOS functional test automation 
+• Contributed for updating the test framework with new modules for automation 
+ 
+Software Engineer
+ (QA, Automation)
+ 
+Apttus Software Pvt. Ltd, Bengaluru  
+10/2019 – 09/2020 
+
+--- PAGE 1 ---
+
+ 
+ 
+Achievements/Tasks: 
+• Created automation framework using Pytest(Python), Created test plane and Completed 100% 
+automation with CI-CD. 
+• Performed API testing on AI-ML based product. 
+• Worked on Automation testing of Word Add-on on Mac Machine. 
+• Worked on N-1 sprint automation and complete 90%+ automation of sprint stories. 
+Test Engineer 
+SonicWall Inc, Bengaluru  
+12/2015 – 10/2019 
+Achievements/Tasks: 
+• Design, code and maintain tools to help manual/automation testing and Develop/Maintain/Debug 
+build verification testing for SMA1000 Product. 
+• Automate testcases using Python selenium and maintain old automation framework written using 
+Ruby-Watir, Perl and Expect. 
+• Evaluate and identify new technologies for solving automation/manual testing issues. 
+• Work with Development team to resolve product issues discovered during test  
+Projects: 
+• Tool for Monitoring health of Automation runs (Python): 
+o Developed a script to monitor Device Under Test (DUT) health/status in real-time. 
+o Provided core dump alerts via email for immediate action 
+• Tool for Testing basic functionality of SMA1000 (Python Selenium and AutoIT): 
+o Created a tool to test basic functionalities of Secure Mobile Access (SMA) on various OS-
+Browser combinations concurrently. 
+o Implemented a Client-Server model with multithreading for efficient testing 
+• VM deploy and configuration script (Python and Expect): 
+o Automated SMA1000 virtual appliance deployment on ESXi Hosts, eliminating manual efforts 
+o Implemented a Client-Server model with multithreading for efficient testing 
+• Tool to configure Automation testbeds (AutoIT and Python): 
+o Automated testbed configuration, including 3 VMs, for automation runs, removed manual 
+efforts completely. 
+Education   
+Master of Computer Applications – MCA                   2013-2016   
+NMAM Institute of Technology, Nitte. 
+Honor Awards  
+Key Contributor 2019  
+SonicWall Inc, Bengaluru. 
+
+--- PAGE 2 ---
+
